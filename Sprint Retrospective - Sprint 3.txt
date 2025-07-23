@@ -1,0 +1,21 @@
+SPRINT RETROSPECTIVE - SPRINT 03
+
+O que funcionou bem? 
+Aprendizado Efetivo do Workflow Git: O sprint foi uma excelente oportunidade para solidificar o conhecimento sobre os 
+comandos essenciais do Git e GitHub. A prática de criar branches, fazer commits e merges foi executada com sucesso.
+
+Adoção de Commits Semânticos: A utilização de mensagens de commit claras e padronizadas (commits semânticos) tornou o 
+histórico do projeto muito mais legível e profissional. Foi fácil entender o propósito de cada alteração apenas olhando o log.
+
+O que não funcionou tão bem?
+Dificuldade com o Fluxo de Branches Remotas: Houve uma dificuldade inicial para entender a diferença entre o fluxo de trabalho 
+local e o remoto. As branches de funcionalidade (index e contato) foram mescladas localmente sem antes serem enviadas (push) para o 
+repositório no GitHub, o que causou confusão sobre por que elas não apareciam no servidor.
+
+Necessidade de Reverter o Trabalho: Para corrigir o fluxo e atender ao novo requisito de ter as branches visíveis no GitHub, foi 
+necessário realizar um git reset --hard para reverter o histórico e refazer o processo. Embora tenha sido uma ótima experiência de 
+aprendizado, em um ambiente de equipe, isso poderia ter sido mais complexo.
+
+Sugestões de Melhorias
+
+Nada a declarar.
